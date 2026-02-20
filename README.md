@@ -57,5 +57,6 @@ computing related topics.
 
 ### In the Queue
 
+- [ ] [Zig Language Reference](https://ziglang.org/documentation/master/)
 - [ ] [Python/C API Reference Manual](https://docs.python.org/3/c-api/)
 - [ ] [SRE Book Updates](https://sre.google/resources/book-update/)
