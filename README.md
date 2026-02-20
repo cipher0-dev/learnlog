@@ -1,8 +1,8 @@
 # Learn Log
 
-A collection of notes for blog posts, conference talks, documentation, short
-videos, books, etc that further my learning on various programming related
-topics.
+This repo tracks my learning. It contains notes and experiments from blog posts,
+conference talks, books, documentation, etc that further my learning on various
+computing related topics.
 
 ## Blogs
 
@@ -23,8 +23,8 @@ topics.
 
 ## Books
 
-- [ ] [The C Programming Language](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
-- [x] [The Linux Programming Interface](https://man7.org/tlpi/)
+- [ ] [The C Programming Language](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628) [notes](https://github.com/cipher0-dev/knrc)
+- [x] [The Linux Programming Interface](https://man7.org/tlpi/) [notes](https://github.com/cipher0-dev/tlpi)
 - [x] [AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/)
 - [x] [The Rust Programming Language](https://doc.rust-lang.org/book/)
 
@@ -50,6 +50,8 @@ topics.
 - [ ] [R for Everyone](https://www.jaredlander.com/r-for-everyone/)
 - [ ] [Modern C](https://www.manning.com/books/modern-c-third-edition)
 - [ ] [Data-oriented design](https://www.amazon.com/Data-oriented-design-engineering-resources-schedules/dp/1916478700)
+- [ ] [Crafting Interpreters](https://www.amazon.com/Crafting-Interpreters-Robert-Nystrom/dp/0990582930)
+- [ ] [Compilers Principles, Techniques, and Tools](https://www.amazon.com/Compilers-Principles-Techniques-Tools-2008-01-01/dp/B019TMH9MQ)
 
 ## Documentation
 
