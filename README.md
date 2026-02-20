@@ -23,8 +23,8 @@ computing related topics.
 
 ## Books
 
-- [ ] [The C Programming Language](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628) [notes](https://github.com/cipher0-dev/knrc)
-- [x] [The Linux Programming Interface](https://man7.org/tlpi/) [notes](https://github.com/cipher0-dev/tlpi)
+- [ ] [The C Programming Language](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628) [[notes](https://github.com/cipher0-dev/knrc)]
+- [x] [The Linux Programming Interface](https://man7.org/tlpi/) [[notes](https://github.com/cipher0-dev/tlpi)]
 - [x] [AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/)
 - [x] [The Rust Programming Language](https://doc.rust-lang.org/book/)
 
