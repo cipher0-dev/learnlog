@@ -60,3 +60,9 @@ computing related topics.
 - [ ] [Zig Language Reference](https://ziglang.org/documentation/master/)
 - [ ] [Python/C API Reference Manual](https://docs.python.org/3/c-api/)
 - [ ] [SRE Book Updates](https://sre.google/resources/book-update/)
+
+## Courseware
+
+### In the Queue
+
+- [ ] [Stanford CS149 - Parallel Computing](https://gfxcourses.stanford.edu/cs149/fall25)
