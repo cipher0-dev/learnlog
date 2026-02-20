@@ -6,6 +6,8 @@ topics.
 
 ## Blogs
 
+- [ ] [The C10K problem](http://www.kegel.com/c10k.html)
+
 ### In the Queue
 
 - [ ] [What Every C Programmer Should Know About Undefined Behavior #1/3](https://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html)
