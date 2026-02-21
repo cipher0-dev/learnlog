@@ -69,3 +69,9 @@ computing related topics.
 ### In the Queue
 
 - [ ] [Stanford CS149 - Parallel Computing](https://gfxcourses.stanford.edu/cs149/fall25)
+
+## Problem Sets
+
+- [ ] [LeetCode](https://leetcode.com/)
+- [ ] [getcracked](https://getcracked.io/)
+- [ ] [Brilliant](https://brilliant.org/)
