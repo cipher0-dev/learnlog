@@ -6,10 +6,13 @@ computing related topics.
 
 ## Blogs
 
-- [ ] [The C10K problem](http://www.kegel.com/c10k.html)
+### Active
+
+### Completed
 
 ### In the Queue
 
+- [ ] [The C10K problem](http://www.kegel.com/c10k.html)
 - [ ] [What Every C Programmer Should Know About Undefined Behavior #1/3](https://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html)
 - [ ] [What Every C Programmer Should Know About Undefined Behavior #2/3](https://blog.llvm.org/2011/05/what-every-c-programmer-should-know_14.html)
 - [ ] [What Every C Programmer Should Know About Undefined Behavior #3/3](https://blog.llvm.org/2011/05/what-every-c-programmer-should-know_21.html)
@@ -17,12 +20,23 @@ computing related topics.
 
 ## Talks
 
+### Active
+
+### Completed
+
 ### In the Queue
 
+- [ ] [Performance Analysis Methodology](https://www.youtube.com/watch?v=abLan0aXJkw) [[notes](...)]
 - [ ] [CppCon 2014: Mike Acton "Data-Oriented Design and C++"](https://www.youtube.com/watch?v=rX0ItVEVjHc)
 - [ ] [Andrew Kelley: A Practical Guide to Applying Data Oriented Design (DoD)](https://www.youtube.com/watch?v=IroPQ150F6c)
 
 ## Books
+
+### Active
+
+- [ ] [Computer Systems](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X)
+
+### Completed
 
 - [x] [The C Programming Language](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628) [[notes](https://github.com/cipher0-dev/knrc)]
 - [x] [The Linux Programming Interface](https://man7.org/tlpi/) [[notes](https://github.com/cipher0-dev/tlpi)]
@@ -31,13 +45,12 @@ computing related topics.
 
 ### In the Queue
 
+- [ ] [BPF Performance Tools](https://www.brendangregg.com/bpf-performance-tools-book.html)
 - [ ] [Site Reliability Engineering](https://sre.google/books/)
 - [ ] [The Site Reliability Workbook](https://sre.google/books/)
 - [ ] [Cracking the Coding Interview](https://www.crackingthecodinginterview.com/)
 - [ ] [Beyond Cracking the Coding Interview](https://www.beyondctci.com/)
-- [ ] [BPF Performance Tools](https://www.brendangregg.com/bpf-performance-tools-book.html)
 - [ ] [Systems Performance](https://www.brendangregg.com/blog/2020-07-15/systems-performance-2nd-edition.html)
-- [ ] [Computer Systems](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X)
 - [ ] [Learning Linux Binary Analysis](https://www.oreilly.com/library/view/learning-linux-binary/9781782167105/)
 - [ ] [CUDA By Example](https://developer.nvidia.com/cuda-example)
 - [ ] [Programming Massively Parallel Processors](https://www.amazon.com/Programming-Massively-Parallel-Processors-Hands/dp/0323912311)
@@ -56,6 +69,10 @@ computing related topics.
 
 ## Documentation
 
+### Active
+
+### Completed
+
 ### In the Queue
 
 - [ ] [Zig Language Reference](https://ziglang.org/documentation/master/)
@@ -67,11 +84,21 @@ computing related topics.
 
 ## Courseware
 
+### Active
+
+### Completed
+
 ### In the Queue
 
 - [ ] [Stanford CS149 - Parallel Computing](https://gfxcourses.stanford.edu/cs149/fall25)
 
 ## Problem Sets
+
+### Active
+
+### Completed
+
+### In the Queue
 
 - [ ] [LeetCode](https://leetcode.com/)
 - [ ] [getcracked](https://getcracked.io/)
