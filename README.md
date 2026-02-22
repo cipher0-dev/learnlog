@@ -34,7 +34,7 @@ computing related topics.
 
 ### Active
 
-- [ ] [Computer Systems](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X)
+- [ ] [Computer Systems](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X) [[notes](https://github.com/cipher0-dev/csapp)]
 
 ### Completed
 
@@ -85,6 +85,8 @@ computing related topics.
 ## Courseware
 
 ### Active
+
+- [ ] [Carnegie Mellon 15-213 - Introduction to Computer Systems](https://www.cs.cmu.edu/~213/) [[notes](https://github.com/cipher0-dev/csapp)]
 
 ### Completed
 
