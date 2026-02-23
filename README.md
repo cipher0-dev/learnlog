@@ -75,6 +75,7 @@ computing related topics.
 
 ### In the Queue
 
+- [ ] [Beej's Quick Guide to GDB](https://beej.us/guide/bggdb/)
 - [ ] [Zig Language Reference](https://ziglang.org/documentation/master/)
 - [ ] [Python/C API Reference Manual](https://docs.python.org/3/c-api/)
 - [ ] [Neovim](https://neovim.io/)
