@@ -12,6 +12,7 @@ computing related topics.
 
 ### In the Queue
 
+- [ ] [The Development of the C Language](https://csapp.cs.cmu.edu/3e/docs/chistory.html)
 - [ ] [The C10K problem](http://www.kegel.com/c10k.html)
 - [ ] [What Every C Programmer Should Know About Undefined Behavior #1/3](https://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html)
 - [ ] [What Every C Programmer Should Know About Undefined Behavior #2/3](https://blog.llvm.org/2011/05/what-every-c-programmer-should-know_14.html)
