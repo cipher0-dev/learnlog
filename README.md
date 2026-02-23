@@ -4,33 +4,6 @@ This repo tracks my learning. It contains notes and experiments from blog posts,
 conference talks, books, documentation, etc that further my learning on various
 computing related topics.
 
-## Blogs
-
-### Active
-
-### Completed
-
-### In the Queue
-
-- [ ] [The Development of the C Language](https://csapp.cs.cmu.edu/3e/docs/chistory.html)
-- [ ] [The C10K problem](http://www.kegel.com/c10k.html)
-- [ ] [What Every C Programmer Should Know About Undefined Behavior #1/3](https://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html)
-- [ ] [What Every C Programmer Should Know About Undefined Behavior #2/3](https://blog.llvm.org/2011/05/what-every-c-programmer-should-know_14.html)
-- [ ] [What Every C Programmer Should Know About Undefined Behavior #3/3](https://blog.llvm.org/2011/05/what-every-c-programmer-should-know_21.html)
-- [ ] [C23: A Slightly Better C](https://news.ycombinator.com/item?id=39081948)
-
-## Talks
-
-### Active
-
-### Completed
-
-### In the Queue
-
-- [ ] [Performance Analysis Methodology](https://www.youtube.com/watch?v=abLan0aXJkw) [[notes](...)]
-- [ ] [CppCon 2014: Mike Acton "Data-Oriented Design and C++"](https://www.youtube.com/watch?v=rX0ItVEVjHc)
-- [ ] [Andrew Kelley: A Practical Guide to Applying Data Oriented Design (DoD)](https://www.youtube.com/watch?v=IroPQ150F6c)
-
 ## Books
 
 ### Active
@@ -67,6 +40,7 @@ computing related topics.
 - [ ] [Data-oriented design](https://www.amazon.com/Data-oriented-design-engineering-resources-schedules/dp/1916478700)
 - [ ] [Crafting Interpreters](https://www.amazon.com/Crafting-Interpreters-Robert-Nystrom/dp/0990582930)
 - [ ] [Compilers Principles, Techniques, and Tools](https://www.amazon.com/Compilers-Principles-Techniques-Tools-2008-01-01/dp/B019TMH9MQ)
+- [ ] [SEI CERT C Coding Standard 2016](https://chenweixiang.github.io/docs/SEI_CERT_C_Coding_Standard_2016_Edition.pdf)
 
 ## Documentation
 
@@ -95,6 +69,43 @@ computing related topics.
 ### In the Queue
 
 - [ ] [Stanford CS149 - Parallel Computing](https://gfxcourses.stanford.edu/cs149/fall25)
+
+## Papers
+
+### Active
+
+### Completed
+
+### In the Queue
+
+- [Dynamic Storage Allocation: A Survey and Critical Review](https://csapp.cs.cmu.edu/3e/docs/dsa.pdf)
+
+## Blogs
+
+### Active
+
+### Completed
+
+### In the Queue
+
+- [ ] [The Development of the C Language](https://csapp.cs.cmu.edu/3e/docs/chistory.html)
+- [ ] [The C10K problem](http://www.kegel.com/c10k.html)
+- [ ] [What Every C Programmer Should Know About Undefined Behavior #1/3](https://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html)
+- [ ] [What Every C Programmer Should Know About Undefined Behavior #2/3](https://blog.llvm.org/2011/05/what-every-c-programmer-should-know_14.html)
+- [ ] [What Every C Programmer Should Know About Undefined Behavior #3/3](https://blog.llvm.org/2011/05/what-every-c-programmer-should-know_21.html)
+- [ ] [C23: A Slightly Better C](https://news.ycombinator.com/item?id=39081948)
+
+## Talks
+
+### Active
+
+### Completed
+
+### In the Queue
+
+- [ ] [Performance Analysis Methodology](https://www.youtube.com/watch?v=abLan0aXJkw) [[notes](...)]
+- [ ] [CppCon 2014: Mike Acton "Data-Oriented Design and C++"](https://www.youtube.com/watch?v=rX0ItVEVjHc)
+- [ ] [Andrew Kelley: A Practical Guide to Applying Data Oriented Design (DoD)](https://www.youtube.com/watch?v=IroPQ150F6c)
 
 ## Problem Sets
 
