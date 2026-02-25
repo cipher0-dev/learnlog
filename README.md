@@ -1,8 +1,8 @@
 # Learn Log
 
-This repo tracks my learning. It contains notes and experiments from blog posts,
-conference talks, books, documentation, etc that further my learning on various
-computing related topics.
+This repo tracks my learning about various computing topics. It contains links
+to learning projects, notes and experiments from reading books, blog posts,
+conference talks, documentation, courseware, papers, problem sets, etc.
 
 ## Projects
 
