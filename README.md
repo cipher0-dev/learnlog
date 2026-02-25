@@ -8,12 +8,13 @@ computing related topics.
 
 ### Active
 
-- [ ] [epoll HTTP Fileserver](https://github.com/cipher0-dev/epoll-fileserver)
+- [ ] [High-performance Epoll based HTTP Fileserver](https://github.com/cipher0-dev/epoll-fileserver)
 
 ### Completed
 
 ### In the Queue
 
+- [ ] Build a high-performance HTTP fileserver based on io_uring
 - [ ] Toy Shell
   - Learning objective would be to get more experience with clone/pipe/execve.
   - CC:APP has a lab for this so I might do this as part of that lab.
