@@ -62,6 +62,7 @@ conference talks, documentation, courseware, papers, problem sets, etc.
 - [ ] [Learning Linux Binary Analysis](https://www.oreilly.com/library/view/learning-linux-binary/9781782167105/)
 - [ ] [CUDA By Example](https://developer.nvidia.com/cuda-example)
 - [ ] [Programming Massively Parallel Processors](https://www.amazon.com/Programming-Massively-Parallel-Processors-Hands/dp/0323912311)
+- [ ] [Debugging with GDB](https://www.amazon.com/Debugging-GDB-GNU-Source-Level-Debugger/dp/1680921436)
 - [ ] [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
 - [ ] [Introduction to Linear Algebra](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232716)
 - [ ] [Structure and Interpretation of Computer Programs](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871)
@@ -103,6 +104,7 @@ conference talks, documentation, courseware, papers, problem sets, etc.
 ### In the Queue
 
 - [ ] [Stanford CS149 - Parallel Computing](https://gfxcourses.stanford.edu/cs149/fall25)
+- [ ] [Assembly Language Adventures](https://www.xorpd.net/pages/x86_adventures.html)
 
 ## Papers
 
