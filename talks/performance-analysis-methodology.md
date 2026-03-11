@@ -1,0 +1,64 @@
+
+[Talk](https://www.youtube.com/watch?v=abLan0aXJkw)
+
+- USE Method
+- Perf issue
+  - Database latency
+  - Packet capturing is slow, time consuming to debug
+  - Dynamic tracing of kernel TCP/IP is faster
+  - It is realtime
+  - Switch to USE
+  - CPU was fine
+  - system was paging
+  - customer had already fixated on dropped packets
+- Performance Methodologies
+  - Not a tool or product
+  - Starting point for beginners
+  - Provides reminders for experts
+  - Checklists are great
+- 90s was metrics focused
+- Previous methods
+  - ad hoc checklists
+  - tool based checklists
+  - study kernel internals, build tools, takes time
+- Dynamic tracing is great
+  - Hardest part is knowing what questions to ask
+  - Methodologies pose the questions
+- Anti-method
+  - Blame someone else anti-method
+    - Find someone to blame, blame them
+    - Maybe it's the network!
+    - Ask for data
+  - Streetlight
+    - You use the tools that you have available
+    - Looking under the streetlight because that is where the light is
+    - ping, why?
+    - running top for days but doesn't progress to other tools
+- Actual Methods
+  - Ad hoc checklist
+    - Easy to follow
+    - Fast
+    - Pragmatic, often delivers results
+    - Point in time recommendations
+    - Follow it without understanding can be a problem
+  - Problem Statement Method
+    - State the problem
+    - How did it go from working to broken?
+    - What changed recently?
+    - Does the issue affect other people?
+    - What is the environment?
+  - Scientific Method
+    - Question
+      - What is causign slow db queries?
+    - Hypothesis
+      - Noisy neighbors
+    - Prediction
+      - I/O latency will show in a query
+    - Test Observational/Experimental
+      - Trace latency of disk access
+    - Analysis
+      - It isn't noisy neighbors
+  - Workload Characterization Method
+    - Look at input provided
+
+44:36
