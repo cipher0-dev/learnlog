@@ -4,6 +4,9 @@
 ### To Read
 
 - [ ] [Beej's Quick Guide to GDB](https://beej.us/guide/bggdb/)
+- [ ] [Prof. Norm Matloff's GDB tutorial](https://heather.cs.ucdavis.edu/matloff/public_html/UnixAndC/CLanguage/Debug.html)
+- [ ] [Quick GDB reference](http://csapp.cs.cmu.edu/2e/docs/gdbnotes-x86-64.pdf)
+
 - [ ] [Zig Language Reference](https://ziglang.org/documentation/master/)
 - [ ] [Python/C API Reference Manual](https://docs.python.org/3/c-api/)
 - [ ] [Neovim](https://neovim.io/)
