@@ -4,6 +4,7 @@
 ### Activly Reading
 
 - [ ] [Computer Systems](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X) [[notes](https://github.com/cipher0-dev/csapp)]
+- [ ] [Learning Linux Binary Analysis](https://www.oreilly.com/library/view/learning-linux-binary/9781782167105/)
 
 ### Completed
 
@@ -21,7 +22,6 @@
 - [ ] [Cracking the Coding Interview](https://www.crackingthecodinginterview.com/)
 - [ ] [Beyond Cracking the Coding Interview](https://www.beyondctci.com/)
 - [ ] [Systems Performance](https://www.brendangregg.com/blog/2020-07-15/systems-performance-2nd-edition.html)
-- [ ] [Learning Linux Binary Analysis](https://www.oreilly.com/library/view/learning-linux-binary/9781782167105/)
 - [ ] [CUDA By Example](https://developer.nvidia.com/cuda-example)
 - [ ] [Programming Massively Parallel Processors](https://www.amazon.com/Programming-Massively-Parallel-Processors-Hands/dp/0323912311)
 - [ ] [Debugging with GDB](https://www.amazon.com/Debugging-GDB-GNU-Source-Level-Debugger/dp/1680921436)
