@@ -1,17 +1,8 @@
 # Learn Log
 
-This repo tracks my learning about various computing related topics.
+This repo tracks my learning.
 
-- 📦 [Projects](./projects.md)
-- 📚 [Books](./books.md)
-- 🎓 [Courses](./courses.md)
-- 📄 [Documents](./docs.md)
-- 📑 [Papers](./papers.md)
-- ✍️ [Blog Posts](./blogs.md)
-- 🎤 [Talks](./talks.md)
-- 🧩 [Problem Sets](./problems.md)
-
-## 2026 Objectives and Schedule
+## Objectives and Schedule
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./images/2026-objectives-dark.svg">
@@ -25,3 +16,26 @@ This repo tracks my learning about various computing related topics.
   <source media="(prefers-color-scheme: dark)" srcset="./images/2026-schedule-2-dark.svg">
   <img alt="Schedule 2" src="./images/2026-schedule-2-light.svg">
 </picture>
+
+## Production
+
+> What I cannot create, I do not understand
+
+- 📦 [Projects](./tx/projects.md)
+- ✍️ [Blog Posts](./tx/blogs.md)
+- 📹 [Videos](./tx/videos.md)
+- 🎓 [Courses](./tx/courses.md)
+
+## Consumption
+
+- 📚 [Books](./rx/books.md)
+- 🎓 [Courses](./rx/courses.md)
+- 📄 [Documents](./rx/docs.md)
+- 📑 [Papers](./rx/papers.md)
+- ✍️ [Blog Posts](./rx/blogs.md)
+- 🎤 [Talks](./rx/talks.md)
+- 🧩 [Problem Sets](./rx/problems.md)
+
+## Tools
+
+- 🤔 [Ignorance List](./oob/ignorance.md)

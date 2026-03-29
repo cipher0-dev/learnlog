@@ -7,7 +7,18 @@
 
 ### Ideas
 
+- [ ] Memory maps visualizer
+  - "attach" to a running process.
+  - Read maps from /proc/pid/maps
+  - Draw memory from 0 low to ff.. high visualizing the entire memory address
+    space.
+  - Mark maps and known address ranges with different colors.
+  - Zoom in and out, down to individual bytes. Everything is at scale.
+  - Track memory updates in real time.
 - [ ] Binary scanner for ROP gadgets
+  - Linearly search through .text section, find ret bytes and work back until
+    you hit byte sequences that consistently don't map to valid encodings.
+    Output these to help with finding useful ROP gadgets.
 - [ ] Build a high-performance HTTP fileserver based on io_uring
 - [ ] Toy Shell
   - Learning objective would be to get more experience with clone/pipe/execve.
