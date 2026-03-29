@@ -16,6 +16,7 @@
 
 ### To Read
 
+- [ ] [A Tour of C++](https://www.amazon.com/Tour-C-Bjarne-Stroustrup/dp/0136816487)
 - [ ] [BPF Performance Tools](https://www.brendangregg.com/bpf-performance-tools-book.html)
 - [ ] [Site Reliability Engineering](https://sre.google/books/)
 - [ ] [The Site Reliability Workbook](https://sre.google/books/)
