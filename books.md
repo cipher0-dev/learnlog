@@ -37,5 +37,5 @@
 - [ ] [Data-oriented design](https://www.amazon.com/Data-oriented-design-engineering-resources-schedules/dp/1916478700)
 - [ ] [Crafting Interpreters](https://www.amazon.com/Crafting-Interpreters-Robert-Nystrom/dp/0990582930)
 - [ ] [Compilers Principles, Techniques, and Tools](https://www.amazon.com/Compilers-Principles-Techniques-Tools-2008-01-01/dp/B019TMH9MQ)
-- [ ] [Secure Coding in C and C++](https://www.amazon.com/Secure-Coding-2nd-Software-Engineering/dp/03021822137)
+- [ ] [Secure Coding in C and C++](https://www.amazon.com/Secure-Coding-2nd-Software-Engineering/dp/0321822137)
 - [ ] [SEI CERT C Coding Standard 2016](https://chenweixiang.github.io/docs/SEI_CERT_C_Coding_Standard_2016_Edition.pdf)
