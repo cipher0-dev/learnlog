@@ -7,6 +7,7 @@
 
 ### Ideas
 
+- [ ] Binary scanner for ROP gadgets
 - [ ] Build a high-performance HTTP fileserver based on io_uring
 - [ ] Toy Shell
   - Learning objective would be to get more experience with clone/pipe/execve.

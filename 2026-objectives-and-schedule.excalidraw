@@ -28,7 +28,7 @@
       "version": 563,
       "versionNonce": 1825643022,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1774748871977,
       "link": null,
       "locked": false,
@@ -328,12 +328,7 @@
       "version": 549,
       "versionNonce": 2028322322,
       "isDeleted": true,
-      "boundElements": [
-        {
-          "id": "IXpU3z9H40Cwu4CBeTQXu",
-          "type": "text"
-        }
-      ],
+      "boundElements": [],
       "updated": 1774742116873,
       "link": null,
       "locked": false
@@ -400,12 +395,7 @@
       "version": 589,
       "versionNonce": 1432890322,
       "isDeleted": true,
-      "boundElements": [
-        {
-          "id": "ANv1q1unl0npSx2IG-Y66",
-          "type": "text"
-        }
-      ],
+      "boundElements": [],
       "updated": 1774742116873,
       "link": null,
       "locked": false
@@ -472,12 +462,7 @@
       "version": 625,
       "versionNonce": 1524031890,
       "isDeleted": true,
-      "boundElements": [
-        {
-          "id": "NJv7lO8ynJQZu3Lasw3Ro",
-          "type": "text"
-        }
-      ],
+      "boundElements": [],
       "updated": 1774742116873,
       "link": null,
       "locked": false
@@ -544,12 +529,7 @@
       "version": 708,
       "versionNonce": 879288146,
       "isDeleted": true,
-      "boundElements": [
-        {
-          "id": "qtdF_h7S0iDq6UJdoeR4Q",
-          "type": "text"
-        }
-      ],
+      "boundElements": [],
       "updated": 1774742116873,
       "link": null,
       "locked": false
@@ -614,7 +594,7 @@
       "version": 389,
       "versionNonce": 1728427918,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1774748871977,
       "link": null,
       "locked": false,
@@ -838,7 +818,7 @@
       "version": 13,
       "versionNonce": 1640216974,
       "isDeleted": true,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1774742266954,
       "link": null,
       "locked": false
@@ -866,7 +846,7 @@
       "version": 3,
       "versionNonce": 724586834,
       "isDeleted": true,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1774742275188,
       "link": null,
       "locked": false,
@@ -1051,7 +1031,7 @@
       "version": 3,
       "versionNonce": 357897294,
       "isDeleted": true,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1774743072777,
       "link": null,
       "locked": false,
@@ -1107,8 +1087,8 @@
       "type": "text",
       "x": 592.0292171303356,
       "y": 543.2730536859332,
-      "width": 305.5910301537007,
-      "height": 80.98114503194621,
+      "width": 305.132080078125,
+      "height": 80.98114503194623,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -1122,20 +1102,20 @@
       "index": "c0FK",
       "roundness": null,
       "seed": 791620686,
-      "version": 1611,
-      "versionNonce": 679300174,
+      "version": 1614,
+      "versionNonce": 676616472,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1774748871977,
+      "updated": 1774785382780,
       "link": null,
       "locked": false,
-      "text": "✅ Book: AI Engineering (495)\nBook: Hands-On Machine Learning (809)\nBook: Designing Machine Learning Systems (355)\nBook: Data Science from Scratch (376)\nBook: R fro Everyone (489)",
+      "text": "✅ Book: AI Engineering (495)\nBook: Hands-On Machine Learning (809)\nBook: Designing Machine Learning Systems (355)\nBook: Data Science from Scratch (376)\nBook: R for Everyone (489)",
       "fontSize": 12.956983205111396,
       "fontFamily": 5,
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
-      "originalText": "✅ Book: AI Engineering (495)\nBook: Hands-On Machine Learning (809)\nBook: Designing Machine Learning Systems (355)\nBook: Data Science from Scratch (376)\nBook: R fro Everyone (489)",
+      "originalText": "✅ Book: AI Engineering (495)\nBook: Hands-On Machine Learning (809)\nBook: Designing Machine Learning Systems (355)\nBook: Data Science from Scratch (376)\nBook: R for Everyone (489)",
       "autoResize": true,
       "lineHeight": 1.25
     },
@@ -1421,7 +1401,7 @@
       "version": 4,
       "versionNonce": 350590802,
       "isDeleted": true,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1774744854365,
       "link": null,
       "locked": false,
@@ -1458,7 +1438,7 @@
       "version": 3,
       "versionNonce": 643577234,
       "isDeleted": true,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1774744882980,
       "link": null,
       "locked": false,
@@ -1495,7 +1475,7 @@
       "version": 3,
       "versionNonce": 1097759314,
       "isDeleted": true,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1774744886325,
       "link": null,
       "locked": false,
@@ -1608,7 +1588,7 @@
       "version": 295,
       "versionNonce": 1123837714,
       "isDeleted": true,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1774744954843,
       "link": null,
       "locked": false
@@ -1636,7 +1616,7 @@
       "version": 483,
       "versionNonce": 1466213518,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1774748871977,
       "link": null,
       "locked": false,
@@ -5495,7 +5475,7 @@
       "version": 867,
       "versionNonce": 1957594126,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1774748871978,
       "link": null,
       "locked": false,
@@ -6165,8 +6145,8 @@
       "width": 330.82913603106266,
       "height": 44.85069015538856,
       "angle": 0,
-      "strokeColor": "#6741d9",
-      "backgroundColor": "#d0bfff",
+      "strokeColor": "#c2255c",
+      "backgroundColor": "#fcc2d7",
       "fillStyle": "hachure",
       "strokeWidth": 4,
       "strokeStyle": "solid",
@@ -6179,8 +6159,8 @@
         "type": 3
       },
       "seed": 1676011662,
-      "version": 1386,
-      "versionNonce": 517913294,
+      "version": 1390,
+      "versionNonce": 1377288472,
       "isDeleted": false,
       "boundElements": [
         {
@@ -6188,7 +6168,7 @@
           "id": "_JQA8GIx65TB5VrqLXkEF"
         }
       ],
-      "updated": 1774748871978,
+      "updated": 1774785403126,
       "link": null,
       "locked": false
     },
@@ -6200,7 +6180,7 @@
       "width": 167.4265594482422,
       "height": 20.245286257986553,
       "angle": 0,
-      "strokeColor": "#6741d9",
+      "strokeColor": "#c2255c",
       "backgroundColor": "transparent",
       "fillStyle": "solid",
       "strokeWidth": 4,
@@ -6212,11 +6192,11 @@
       "index": "c0HL",
       "roundness": null,
       "seed": 1215669966,
-      "version": 1656,
-      "versionNonce": 1226453262,
+      "version": 1658,
+      "versionNonce": 864027672,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1774748871978,
+      "updated": 1774785401893,
       "link": null,
       "locked": false,
       "text": "Systems Performance",
@@ -8152,12 +8132,7 @@
       "version": 1014,
       "versionNonce": 166832274,
       "isDeleted": true,
-      "boundElements": [
-        {
-          "type": "text",
-          "id": "GDg73n-d3v_uVMVlxuwme"
-        }
-      ],
+      "boundElements": [],
       "updated": 1774747845612,
       "link": null,
       "locked": false
@@ -8339,7 +8314,7 @@
       "version": 275,
       "versionNonce": 1413483918,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1774748871978,
       "link": null,
       "locked": false,
@@ -8378,12 +8353,7 @@
       "version": 1477,
       "versionNonce": 435239826,
       "isDeleted": true,
-      "boundElements": [
-        {
-          "type": "text",
-          "id": "fRSyNHSfpVa5ApfH37xVf"
-        }
-      ],
+      "boundElements": [],
       "updated": 1774748500964,
       "link": null,
       "locked": false
@@ -8450,12 +8420,7 @@
       "version": 1308,
       "versionNonce": 97703890,
       "isDeleted": true,
-      "boundElements": [
-        {
-          "type": "text",
-          "id": "dA1OmTrRo-lKzfugUZaW_"
-        }
-      ],
+      "boundElements": [],
       "updated": 1774748514133,
       "link": null,
       "locked": false
@@ -8638,6 +8603,43 @@
       "verticalAlign": "middle",
       "containerId": "YPAlOkqoC5hg9B3u7L4_m",
       "originalText": "Cracking The Coding Interview",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "ywsa-pr_WKwfVxOWvHP38",
+      "type": "text",
+      "x": 1332.8467929559104,
+      "y": 804.2498076055562,
+      "width": 8,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#c2255c",
+      "backgroundColor": "#fcc2d7",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "c0II",
+      "roundness": null,
+      "seed": 3955480,
+      "version": 3,
+      "versionNonce": 351255400,
+      "isDeleted": true,
+      "boundElements": null,
+      "updated": 1774785409408,
+      "link": null,
+      "locked": false,
+      "text": "",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "",
       "autoResize": true,
       "lineHeight": 1.25
     }

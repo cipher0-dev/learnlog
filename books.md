@@ -16,6 +16,7 @@
 
 ### To Read
 
+- [ ] [Prometheus: Up & Running](https://www.amazon.com/Prometheus-Infrastructure-Application-Performance-Monitoring-dp-1098131142/dp/1098131142)
 - [ ] [A Tour of C++](https://www.amazon.com/Tour-C-Bjarne-Stroustrup/dp/0136816487)
 - [ ] [BPF Performance Tools](https://www.brendangregg.com/bpf-performance-tools-book.html)
 - [ ] [Site Reliability Engineering](https://sre.google/books/)

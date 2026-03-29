@@ -1,6 +1,11 @@
 
 ## Documents
 
+### Read
+
+- [x] [Go: Profile-guided optimization](https://go.dev/doc/pgo)
+- [x] [Go Wiki: PGO Tools](https://go.dev/wiki/PGO-Tools)
+
 ### To Read
 
 - [ ] [Beej's Quick Guide to GDB](https://beej.us/guide/bggdb/)
