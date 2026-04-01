@@ -8,6 +8,7 @@
 
 ### To Read
 
+- [ ] [Frida](https://frida.re/docs/home/)
 - [ ] [GoogleTest](https://google.github.io/googletest/)
 - [ ] [Google Benchmark](https://google.github.io/benchmark/)
 - [ ] [Beej's Quick Guide to GDB](https://beej.us/guide/bggdb/)
