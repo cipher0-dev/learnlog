@@ -7,6 +7,13 @@
 
 ### Ideas
 
+- [ ] Write your own linear algebra library
+  - Start with vectors, matricies, and then tensors
+  - Implement standard operations dot products, addition, mat mul, etc
+  - Work on performance optimization with ILP, SIMD, CUDA and other
+    implementaions
+  - Write test suite and benchmarks
+  - Do it in C++ to leverage googletest and google benchmark
 - [ ] Memory maps visualizer
   - "attach" to a running process.
   - Read maps from /proc/pid/maps
