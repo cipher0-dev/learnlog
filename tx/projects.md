@@ -7,6 +7,7 @@
 
 ### Ideas
 
+- [ ] Review and categorize the entire amd64 Linux syscall table.
 - [ ] Write your own linear algebra library
   - Start with vectors, matricies, and then tensors
   - Implement standard operations dot products, addition, mat mul, etc
@@ -34,7 +35,6 @@
   - I already implemented a basic free list allocator using sbrk as part of
     reading K&R C. This would be a repo to implement other, more modern
     allocation strategies.
-- [ ] Review and categorize the entire amd64 Linux syscall table.
 - [ ] Create a mini-Linux distro
   - Build the Linux kernel and busybox/mucl from source.
   - Learning objective would be to gain more experience with the kernel.
