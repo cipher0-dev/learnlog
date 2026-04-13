@@ -3,11 +3,11 @@
 
 ### Activly Reading
 
-- [ ] [Computer Systems](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X) [[notes](https://github.com/cipher0-dev/csapp)]
 - [ ] [Learning Linux Binary Analysis](https://www.oreilly.com/library/view/learning-linux-binary/9781782167105/) [[notes](https://github.com/cipher0-dev/llba)]
 
 ### Completed
 
+- [x] [Computer Systems](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X) [[notes](https://github.com/cipher0-dev/csapp)]
 - [x] [The C Programming Language](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628) [[notes](https://github.com/cipher0-dev/knrc)]
 - [x] [The Linux Programming Interface](https://man7.org/tlpi/) [[notes](https://github.com/cipher0-dev/tlpi)]
 - [x] [AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/)
@@ -41,3 +41,4 @@
 - [ ] [Compilers Principles, Techniques, and Tools](https://www.amazon.com/Compilers-Principles-Techniques-Tools-2008-01-01/dp/B019TMH9MQ)
 - [ ] [Secure Coding in C and C++](https://www.amazon.com/Secure-Coding-2nd-Software-Engineering/dp/0321822137)
 - [ ] [SEI CERT C Coding Standard 2016](https://chenweixiang.github.io/docs/SEI_CERT_C_Coding_Standard_2016_Edition.pdf)
+- [ ] [Understanding Distributed Systems](https://www.amazon.com/Understanding-Distributed-Systems-Second-applications/dp/1838430210) - Relatively small and quick read
