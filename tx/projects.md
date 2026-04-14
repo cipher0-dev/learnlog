@@ -8,6 +8,7 @@
 ### Ideas
 
 - [ ] Review and categorize the entire amd64 Linux syscall table.
+  - [syscall table](https://syscalls.w3challs.com/?arch=x86_64)
 - [ ] Write your own linear algebra library
   - Start with vectors, matricies, and then tensors
   - Implement standard operations dot products, addition, mat mul, etc
