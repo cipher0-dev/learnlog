@@ -2,12 +2,15 @@
 
 This repo tracks my learning.
 
-## Objectives and Schedule
+## Objectives
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./images/2026-objectives-dark.svg">
   <img alt="Objectives" src="./images/2026-objectives-light.svg">
 </picture>
+
+## 2026 Schedule
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./images/2026-schedule-1-dark.svg">
   <img alt="Schedule 1" src="./images/2026-schedule-1-light.svg">

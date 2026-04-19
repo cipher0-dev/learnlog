@@ -8,6 +8,8 @@
 
 ### To Read
 
+- [ ] [GCC Basic ASM](https://gcc.gnu.org/onlinedocs/gcc-12.5.0/gcc/Basic-Asm.html)
+- [ ] [GCC Extended ASM](https://gcc.gnu.org/onlinedocs/gcc-12.5.0/gcc/Extended-Asm.html)
 - [ ] [Frida](https://frida.re/docs/home/)
 - [ ] [GoogleTest](https://google.github.io/googletest/)
 - [ ] [Google Benchmark](https://google.github.io/benchmark/)
