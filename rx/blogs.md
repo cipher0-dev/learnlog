@@ -7,6 +7,7 @@
 
 ### To Read
 
+- [ ] [What Color is Your Function](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
 - [ ] [μpack: Faster & more flexible integer compression](https://blog.cf8.gg/mpack-faster-more-flexible-integer-compression/)
 - [ ] [The Development of the C Language](https://csapp.cs.cmu.edu/3e/docs/chistory.html)
 - [ ] [The C10K problem](http://www.kegel.com/c10k.html)
