@@ -1,6 +1,10 @@
 
 ## Projects
 
+### Complete
+
+- [x] [No BSS](https://github.com/cipher0-dev/nobss) - A minimal amd64 ELF binary builder
+
 ### In Progress
 
 - [ ] [High-performance Epoll based HTTP Fileserver](https://github.com/cipher0-dev/epoll-fileserver)
