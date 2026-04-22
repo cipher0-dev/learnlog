@@ -3,7 +3,8 @@
 
 ### Read
 
- - [x] [The Claude C Compiler: What It Reveals About the Future of Software](https://www.modular.com/blog/the-claude-c-compiler-what-it-reveals-about-the-future-of-software)
+- [x] [Sorry state of dynamic libraries on Linux](http://www.macieira.org/blog/2012/01/sorry-state-of-dynamic-libraries-on-linux/)
+- [x] [The Claude C Compiler: What It Reveals About the Future of Software](https://www.modular.com/blog/the-claude-c-compiler-what-it-reveals-about-the-future-of-software)
 
 ### To Read
 
