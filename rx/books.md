@@ -3,10 +3,10 @@
 
 ### Activly Reading
 
-- [ ] [Learning Linux Binary Analysis](https://www.oreilly.com/library/view/learning-linux-binary/9781782167105/) [[notes](https://github.com/cipher0-dev/llba)]
 
 ### Completed
 
+- [x] [Learning Linux Binary Analysis](https://www.oreilly.com/library/view/learning-linux-binary/9781782167105/) [[notes](https://github.com/cipher0-dev/llba)]
 - [x] [Computer Systems](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X) [[notes](https://github.com/cipher0-dev/csapp)]
 - [x] [The C Programming Language](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628) [[notes](https://github.com/cipher0-dev/knrc)]
 - [x] [The Linux Programming Interface](https://man7.org/tlpi/) [[notes](https://github.com/cipher0-dev/tlpi)]
