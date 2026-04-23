@@ -3,6 +3,7 @@
 
 ### Read
 
+- [x] [Ulrich Drepper](https://deprogrammaticaipsum.com/ulrich-drepper/)
 - [x] [Sorry state of dynamic libraries on Linux](http://www.macieira.org/blog/2012/01/sorry-state-of-dynamic-libraries-on-linux/)
 - [x] [The Claude C Compiler: What It Reveals About the Future of Software](https://www.modular.com/blog/the-claude-c-compiler-what-it-reveals-about-the-future-of-software)
 
@@ -16,3 +17,9 @@
 - [ ] [What Every C Programmer Should Know About Undefined Behavior #2/3](https://blog.llvm.org/2011/05/what-every-c-programmer-should-know_14.html)
 - [ ] [What Every C Programmer Should Know About Undefined Behavior #3/3](https://blog.llvm.org/2011/05/what-every-c-programmer-should-know_21.html)
 - [ ] [C23: A Slightly Better C](https://news.ycombinator.com/item?id=39081948)
+
+### Sites
+
+- [De Programmatica Ipsum](https://deprogrammaticaipsum.com/)
+- [The LLVM Project Blog](https://blog.llvm.org/)
+- [Modular Blog](https://www.modular.com/blog)

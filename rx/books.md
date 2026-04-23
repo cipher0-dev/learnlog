@@ -16,6 +16,10 @@
 
 ### To Read
 
+- [ ] [The Art of Memory Forensics](https://memoryanalysis.net/amf/)
+- [ ] [97 Things Every Software Architect Should Know](https://www.oreilly.com/library/view/97-things-every/9780596800611/ch71.html)
+- [ ] [97 Things Every Programmer Should Know](https://www.oreilly.com/library/view/97-things-every/9780596809515/)
+- [ ] [What Every Engineer Should Know about Software Engineering](https://www.amazon.com/Every-Engineer-Should-Software-Engineering/dp/1032111534)
 - [ ] [Prometheus: Up & Running](https://www.amazon.com/Prometheus-Infrastructure-Application-Performance-Monitoring-dp-1098131142/dp/1098131142)
 - [ ] [A Tour of C++](https://www.amazon.com/Tour-C-Bjarne-Stroustrup/dp/0136816487)
 - [ ] [BPF Performance Tools](https://www.brendangregg.com/bpf-performance-tools-book.html)
